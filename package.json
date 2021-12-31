@@ -1,0 +1,8 @@
+{
+  "name": "react-ts-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lorraine98/react-ts-boilerplate.git",
+  "author": "lorraine98 <hyosung0425@naver.com>",
+  "license": "MIT"
+}
