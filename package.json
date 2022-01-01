@@ -5,6 +5,9 @@
   "repository": "https://github.com/lorraine98/react-ts-boilerplate.git",
   "author": "lorraine98 <hyosung0425@naver.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack serve --config webpack/webpack.config.js --env env=dev"
+  },
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
